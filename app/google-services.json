@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1042208797686",
+    "project_id": "kotlincrudapp",
+    "storage_bucket": "kotlincrudapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1042208797686:android:349699a0703036060a4dd7",
+        "android_client_info": {
+          "package_name": "com.mtnacademy.kotlincrudapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1042208797686-ln1c76hej38fm3kjp3r1ofenl68u01ef.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMSlMjL0m5Mp9-_y9hIZG7ZTUQ6XqWiAc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1042208797686-ln1c76hej38fm3kjp3r1ofenl68u01ef.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
